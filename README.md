@@ -1,6 +1,6 @@
 # Database-and-SQL-in-IBM-Db2
 
-This Project provides the idea how to load Database into IBM Db2 cloud and do exploratory Data analysis with three datasets. Here I used Structured Query Language (SQL) to  
+This Project provides the idea how to load Database into IBM Db2 cloud and do exploratory Data analysis with three datasets. Here I used Structured Query Language (SQL) to do the query for getting different statistics related to Chicago Crime, Census and Public school Data. At the beginning, I needed to open an account in IBM Cloud to get access to IBM Db2 instance. I loaded the three datasets into IBM Cloud through IBM DB2 instance as three database tables. I needed to take the credential service information such as user name, password, host name to make a link with Jupyter notebook. Then I got access into three tables through Jupyter notebook and the platform becomes easy to use SQL commands to do the exploratory analysis of Data among three Data sets.    
 
 
 ## Acknowledgement
